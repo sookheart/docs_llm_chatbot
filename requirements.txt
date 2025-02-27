@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+langchain-core
+langchain-openai
+youtube-transcript-api
+faiss-cpu
+openai
+langchain
+PyPDF2
+bs4
