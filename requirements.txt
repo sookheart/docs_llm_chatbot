@@ -7,4 +7,8 @@ faiss-cpu
 openai
 langchain
 PyPDF2
+pypdf
+pikepdf
+pdf2image
+pdfminer.six
 bs4
